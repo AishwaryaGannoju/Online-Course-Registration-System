@@ -13,7 +13,7 @@ import java.util.List;
 public class CourseDao {
 	private String jdbcURL = "jdbc:mysql://localhost:3306/rs";
 	private String jdbcUsername = "root";
-	private String jdbcPassword = "AishwaryaG!13";
+	private String jdbcPassword = "password";
 	
 	private static final String INSERT_COURSES_SQL = "INSERT INTO courses (cid,cname) VALUES (?,?)";
 
