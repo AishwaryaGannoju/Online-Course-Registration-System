@@ -12,7 +12,7 @@ public class AdminLoginDao {
 	
 	private String dbUrl = "jdbc:mysql://localhost:3306/rs";
 	private String dbUname = "root";
-	private String dbPassword = "AishwaryaG!13";
+	private String dbPassword = "password";
 	private String dbDriver = "com.mysql.cj.jdbc.Driver";
 	
 	public void loadDriver(String dbDriver)
